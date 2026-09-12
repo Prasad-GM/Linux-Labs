@@ -1,4 +1,4 @@
-# 🔍 Day 07 - GREP and FIND Commands
+#  Day 07 - GREP and FIND Commands
 
 ## Objective
 To learn how to search for text inside files using GREP and search for files/directories using FIND.
